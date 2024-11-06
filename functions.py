@@ -220,12 +220,4 @@ def game_loop(fname):
 
 
 if __name__ == "__main__":
-    # comp = [["hej", "På", "dig", "Igelkott"]]
-    # usr = [["he", "jpå", "Dig", "Igelkott"]]
-    game_loop("test.txt")
-    #save_score("Oliver", "test", 22.5)
-    # print(word_result(comp, usr))
-    #sort_score()
-
-    # sort_list, fail, wrong_char = letter_result(comp, usr, wrong_char={})
-    # print(wrong_char)
+    print(wrong_char)
